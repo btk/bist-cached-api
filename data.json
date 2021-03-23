@@ -1,0 +1,3710 @@
+{
+  "success": true,
+  "result": [
+    {
+      "currency": "TRY",
+      "name": "ACSEL",
+      "pricestr": "19,99",
+      "price": 19.99,
+      "rate": 3.2,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "ADEL",
+      "pricestr": "21,40",
+      "price": 21.4,
+      "rate": -2.64,
+      "time": "17:31:12"
+    },
+    {
+      "currency": "TRY",
+      "name": "ADESE",
+      "pricestr": "2,84",
+      "price": 2.84,
+      "rate": 5.19,
+      "time": "17:27:10"
+    },
+    {
+      "currency": "TRY",
+      "name": "AEFES",
+      "pricestr": "22,02",
+      "price": 22.02,
+      "rate": 2.51,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "AFYON",
+      "pricestr": "4,10",
+      "price": 4.1,
+      "rate": 0.74,
+      "time": "17:31:27"
+    },
+    {
+      "currency": "TRY",
+      "name": "AGHOL",
+      "pricestr": "24,16",
+      "price": 24.16,
+      "rate": -0.9,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "AGYO",
+      "pricestr": "3,07",
+      "price": 3.07,
+      "rate": -3.46,
+      "time": "17:31:25"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKBNK",
+      "pricestr": "4,84",
+      "price": 4.84,
+      "rate": -9.19,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKCNS",
+      "pricestr": "18,33",
+      "price": 18.33,
+      "rate": 9.96,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKENR",
+      "pricestr": "1,73",
+      "price": 1.73,
+      "rate": 1.17,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKFGY",
+      "pricestr": "3,81",
+      "price": 3.81,
+      "rate": -2.31,
+      "time": "17:27:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKGRT",
+      "pricestr": "7,91",
+      "price": 7.91,
+      "rate": -3.3,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKMGY",
+      "pricestr": "53,55",
+      "price": 53.55,
+      "rate": 5.41,
+      "time": "17:31:13"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKSA",
+      "pricestr": "15,33",
+      "price": 15.33,
+      "rate": -1.54,
+      "time": "17:31:16"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKSEN",
+      "pricestr": "10,17",
+      "price": 10.17,
+      "rate": -1.07,
+      "time": "17:31:25"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKSGY",
+      "pricestr": "1,93",
+      "price": 1.93,
+      "rate": -3.5,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKSUE",
+      "pricestr": "5,81",
+      "price": 5.81,
+      "rate": -0.68,
+      "time": "17:31:02"
+    },
+    {
+      "currency": "TRY",
+      "name": "AKYHO",
+      "pricestr": "2,25",
+      "price": 2.25,
+      "rate": 7.14,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALARK",
+      "pricestr": "10,80",
+      "price": 10.8,
+      "rate": -0.37,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALBRK",
+      "pricestr": "1,68",
+      "price": 1.68,
+      "rate": -0.59,
+      "time": "17:31:27"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALCAR",
+      "pricestr": "372,30",
+      "price": 372.3,
+      "rate": 0.98,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALCTL",
+      "pricestr": "29,92",
+      "price": 29.92,
+      "rate": -1.58,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALGYO",
+      "pricestr": "25,26",
+      "price": 25.26,
+      "rate": 1.85,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALKA",
+      "pricestr": "16,80",
+      "price": 16.8,
+      "rate": 2,
+      "time": "17:31:16"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALKIM",
+      "pricestr": "16,20",
+      "price": 16.2,
+      "rate": 1.5,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "ALMAD",
+      "pricestr": "2,20",
+      "price": 2.2,
+      "rate": -2.22,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ANELE",
+      "pricestr": "5,07",
+      "price": 5.07,
+      "rate": 4.54,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "ANHYT",
+      "pricestr": "10,52",
+      "price": 10.52,
+      "rate": 3.54,
+      "time": "17:29:58"
+    },
+    {
+      "currency": "TRY",
+      "name": "ANSGR",
+      "pricestr": "7,12",
+      "price": 7.12,
+      "rate": -1.39,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "ARCLK",
+      "pricestr": "32,76",
+      "price": 32.76,
+      "rate": 3.74,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "ARDYZ",
+      "pricestr": "49,64",
+      "price": 49.64,
+      "rate": 0.28,
+      "time": "17:31:24"
+    },
+    {
+      "currency": "TRY",
+      "name": "ARENA",
+      "pricestr": "50,05",
+      "price": 50.05,
+      "rate": 3.15,
+      "time": "17:30:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "ARMDA",
+      "pricestr": "55,90",
+      "price": 55.9,
+      "rate": 5.57,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "ARSAN",
+      "pricestr": "10,36",
+      "price": 10.36,
+      "rate": 6.47,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "ARZUM",
+      "pricestr": "21,44",
+      "price": 21.44,
+      "rate": 1.13,
+      "time": "17:31:01"
+    },
+    {
+      "currency": "TRY",
+      "name": "ASELS",
+      "pricestr": "14,91",
+      "price": 14.91,
+      "rate": 1.15,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "ASUZU",
+      "pricestr": "18,56",
+      "price": 18.56,
+      "rate": -0.8,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "ATAGY",
+      "pricestr": "5,21",
+      "price": 5.21,
+      "rate": -2.43,
+      "time": "17:30:47"
+    },
+    {
+      "currency": "TRY",
+      "name": "ATEKS",
+      "pricestr": "53,55",
+      "price": 53.55,
+      "rate": -0.37,
+      "time": "17:30:51"
+    },
+    {
+      "currency": "TRY",
+      "name": "ATLAS",
+      "pricestr": "1,41",
+      "price": 1.41,
+      "rate": 2.92,
+      "time": "17:27:13"
+    },
+    {
+      "currency": "TRY",
+      "name": "ATSYH",
+      "pricestr": "4,75",
+      "price": 4.75,
+      "rate": 0,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "AVGYO",
+      "pricestr": "3,02",
+      "price": 3.02,
+      "rate": 7.09,
+      "time": "17:30:51"
+    },
+    {
+      "currency": "TRY",
+      "name": "AVHOL",
+      "pricestr": "9,00",
+      "price": 9,
+      "rate": -3.02,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "AVISA",
+      "pricestr": "17,81",
+      "price": 17.81,
+      "rate": 1.31,
+      "time": "17:30:12"
+    },
+    {
+      "currency": "TRY",
+      "name": "AVOD",
+      "pricestr": "9,20",
+      "price": 9.2,
+      "rate": 8.24,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "AVTUR",
+      "pricestr": "3,18",
+      "price": 3.18,
+      "rate": 3.92,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "AYCES",
+      "pricestr": "72,60",
+      "price": 72.6,
+      "rate": 4.16,
+      "time": "17:29:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "AYEN",
+      "pricestr": "7,27",
+      "price": 7.27,
+      "rate": 5.82,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "AYES",
+      "pricestr": "11,35",
+      "price": 11.35,
+      "rate": 0.09,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "AYGAZ",
+      "pricestr": "14,23",
+      "price": 14.23,
+      "rate": -0.28,
+      "time": "17:31:24"
+    },
+    {
+      "currency": "TRY",
+      "name": "BAGFS",
+      "pricestr": "21,66",
+      "price": 21.66,
+      "rate": -2.7,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "BAKAB",
+      "pricestr": "23,02",
+      "price": 23.02,
+      "rate": 2.49,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "BALAT",
+      "pricestr": "8,00",
+      "price": 8,
+      "rate": 6.1,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "BANVT",
+      "pricestr": "53,15",
+      "price": 53.15,
+      "rate": 0.09,
+      "time": "17:31:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "BASCM",
+      "pricestr": "13,49",
+      "price": 13.49,
+      "rate": 7.15,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "BAYRK",
+      "pricestr": "9,79",
+      "price": 9.79,
+      "rate": -3.55,
+      "time": "17:31:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "BERA",
+      "pricestr": "20,68",
+      "price": 20.68,
+      "rate": 0.88,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "BEYAZ",
+      "pricestr": "11,92",
+      "price": 11.92,
+      "rate": 1.36,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "BFREN",
+      "pricestr": "1.054,90",
+      "price": 1.054,
+      "rate": 3.41,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "BIMAS",
+      "pricestr": "67,40",
+      "price": 67.4,
+      "rate": 4.01,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "BIZIM",
+      "pricestr": "13,31",
+      "price": 13.31,
+      "rate": -0.82,
+      "time": "17:30:44"
+    },
+    {
+      "currency": "TRY",
+      "name": "BJKAS",
+      "pricestr": "5,93",
+      "price": 5.93,
+      "rate": 0.17,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "BLCYT",
+      "pricestr": "11,79",
+      "price": 11.79,
+      "rate": 3.97,
+      "time": "17:30:57"
+    },
+    {
+      "currency": "TRY",
+      "name": "BNTAS",
+      "pricestr": "4,30",
+      "price": 4.3,
+      "rate": 1.65,
+      "time": "17:27:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "BOSSA",
+      "pricestr": "23,48",
+      "price": 23.48,
+      "rate": 1.12,
+      "time": "17:31:09"
+    },
+    {
+      "currency": "TRY",
+      "name": "BRISA",
+      "pricestr": "26,58",
+      "price": 26.58,
+      "rate": 3.5,
+      "time": "17:31:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "BRKO",
+      "pricestr": "1,07",
+      "price": 1.07,
+      "rate": 0.94,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "BRKSN",
+      "pricestr": "10,28",
+      "price": 10.28,
+      "rate": -2.37,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "BRMEN",
+      "pricestr": "2,85",
+      "price": 2.85,
+      "rate": 5.56,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "BRSAN",
+      "pricestr": "27,10",
+      "price": 27.1,
+      "rate": -2.66,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "BRYAT",
+      "pricestr": "399,00",
+      "price": 399,
+      "rate": 0,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "BSOKE",
+      "pricestr": "3,47",
+      "price": 3.47,
+      "rate": -3.61,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "BTCIM",
+      "pricestr": "14,57",
+      "price": 14.57,
+      "rate": -3.64,
+      "time": "17:31:09"
+    },
+    {
+      "currency": "TRY",
+      "name": "BUCIM",
+      "pricestr": "3,78",
+      "price": 3.78,
+      "rate": 4.13,
+      "time": "17:31:24"
+    },
+    {
+      "currency": "TRY",
+      "name": "BURCE",
+      "pricestr": "22,74",
+      "price": 22.74,
+      "rate": 2.62,
+      "time": "17:31:09"
+    },
+    {
+      "currency": "TRY",
+      "name": "BURVA",
+      "pricestr": "30,60",
+      "price": 30.6,
+      "rate": 0.2,
+      "time": "17:30:49"
+    },
+    {
+      "currency": "TRY",
+      "name": "CASA",
+      "pricestr": "126,70",
+      "price": 126.7,
+      "rate": 0,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "CCOLA",
+      "pricestr": "68,50",
+      "price": 68.5,
+      "rate": 2.24,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "CELHA",
+      "pricestr": "7,54",
+      "price": 7.54,
+      "rate": 2.31,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "CEMAS",
+      "pricestr": "1,32",
+      "price": 1.32,
+      "rate": -2.94,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "CEMTS",
+      "pricestr": "14,23",
+      "price": 14.23,
+      "rate": 0.21,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "CEOEM",
+      "pricestr": "5,49",
+      "price": 5.49,
+      "rate": -2.49,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "CIMSA",
+      "pricestr": "20,26",
+      "price": 20.26,
+      "rate": 2.79,
+      "time": "17:30:55"
+    },
+    {
+      "currency": "TRY",
+      "name": "CLEBI",
+      "pricestr": "298,90",
+      "price": 298.9,
+      "rate": 9.97,
+      "time": "17:24:56"
+    },
+    {
+      "currency": "TRY",
+      "name": "CMBTN",
+      "pricestr": "274,60",
+      "price": 274.6,
+      "rate": 1.03,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "CMENT",
+      "pricestr": "38,80",
+      "price": 38.8,
+      "rate": 7.78,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "COSMO",
+      "pricestr": "10,20",
+      "price": 10.2,
+      "rate": 0.29,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "CRDFA",
+      "pricestr": "4,41",
+      "price": 4.41,
+      "rate": -4.96,
+      "time": "17:31:17"
+    },
+    {
+      "currency": "TRY",
+      "name": "CRFSA",
+      "pricestr": "53,55",
+      "price": 53.55,
+      "rate": -0.74,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "CUSAN",
+      "pricestr": "6,60",
+      "price": 6.6,
+      "rate": -0.75,
+      "time": "17:30:50"
+    },
+    {
+      "currency": "TRY",
+      "name": "DAGHL",
+      "pricestr": "13,10",
+      "price": 13.1,
+      "rate": -1.65,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "DAGI",
+      "pricestr": "2,51",
+      "price": 2.51,
+      "rate": 1.21,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "DARDL",
+      "pricestr": "31,54",
+      "price": 31.54,
+      "rate": 5.56,
+      "time": "17:30:44"
+    },
+    {
+      "currency": "TRY",
+      "name": "DENGE",
+      "pricestr": "6,30",
+      "price": 6.3,
+      "rate": 0.64,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "DERAS",
+      "pricestr": "7,75",
+      "price": 7.75,
+      "rate": -1.27,
+      "time": "17:30:39"
+    },
+    {
+      "currency": "TRY",
+      "name": "DERIM",
+      "pricestr": "11,09",
+      "price": 11.09,
+      "rate": -0.72,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "DESA",
+      "pricestr": "11,81",
+      "price": 11.81,
+      "rate": 1.72,
+      "time": "17:31:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "DESPC",
+      "pricestr": "11,53",
+      "price": 11.53,
+      "rate": 1.77,
+      "time": "17:31:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "DEVA",
+      "pricestr": "29,02",
+      "price": 29.02,
+      "rate": 8.2,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "DGATE",
+      "pricestr": "14,47",
+      "price": 14.47,
+      "rate": 2.7,
+      "time": "17:31:12"
+    },
+    {
+      "currency": "TRY",
+      "name": "DGGYO",
+      "pricestr": "11,20",
+      "price": 11.2,
+      "rate": 2.94,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "DGKLB",
+      "pricestr": "2,62",
+      "price": 2.62,
+      "rate": -2.6,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "DIRIT",
+      "pricestr": "5,43",
+      "price": 5.43,
+      "rate": -9.95,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "DITAS",
+      "pricestr": "14,86",
+      "price": 14.86,
+      "rate": 1.92,
+      "time": "17:31:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "DMSAS",
+      "pricestr": "7,17",
+      "price": 7.17,
+      "rate": 0.28,
+      "time": "17:31:03"
+    },
+    {
+      "currency": "TRY",
+      "name": "DNISI",
+      "pricestr": "14,08",
+      "price": 14.08,
+      "rate": 0.43,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "DOAS",
+      "pricestr": "28,46",
+      "price": 28.46,
+      "rate": -1.18,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "DOBUR",
+      "pricestr": "16,95",
+      "price": 16.95,
+      "rate": 3.48,
+      "time": "17:26:04"
+    },
+    {
+      "currency": "TRY",
+      "name": "DOCO",
+      "pricestr": "609,30",
+      "price": 609.3,
+      "rate": -0.85,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "DOGUB",
+      "pricestr": "5,12",
+      "price": 5.12,
+      "rate": -1.73,
+      "time": "17:31:14"
+    },
+    {
+      "currency": "TRY",
+      "name": "DOHOL",
+      "pricestr": "3,28",
+      "price": 3.28,
+      "rate": 9.33,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "DOKTA",
+      "pricestr": "32,90",
+      "price": 32.9,
+      "rate": -0.3,
+      "time": "17:31:08"
+    },
+    {
+      "currency": "TRY",
+      "name": "DURDO",
+      "pricestr": "11,50",
+      "price": 11.5,
+      "rate": -0.35,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "DYOBY",
+      "pricestr": "13,54",
+      "price": 13.54,
+      "rate": -0.73,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "DZGYO",
+      "pricestr": "4,86",
+      "price": 4.86,
+      "rate": -2.41,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "ECILC",
+      "pricestr": "6,31",
+      "price": 6.31,
+      "rate": 0.48,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "ECZYT",
+      "pricestr": "53,20",
+      "price": 53.2,
+      "rate": 8.53,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "EDIP",
+      "pricestr": "3,21",
+      "price": 3.21,
+      "rate": -4.18,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "EGEEN",
+      "pricestr": "1.666,70",
+      "price": 1.666,
+      "rate": 7.38,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "EGGUB",
+      "pricestr": "203,30",
+      "price": 203.3,
+      "rate": 3.72,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "EGPRO",
+      "pricestr": "31,92",
+      "price": 31.92,
+      "rate": -1.48,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "EGSER",
+      "pricestr": "12,49",
+      "price": 12.49,
+      "rate": 3.82,
+      "time": "17:30:44"
+    },
+    {
+      "currency": "TRY",
+      "name": "EKGYO",
+      "pricestr": "1,85",
+      "price": 1.85,
+      "rate": -2.12,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "EKIZ",
+      "pricestr": "6,32",
+      "price": 6.32,
+      "rate": 0.32,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "EMKEL",
+      "pricestr": "2,64",
+      "price": 2.64,
+      "rate": -1.49,
+      "time": "17:31:17"
+    },
+    {
+      "currency": "TRY",
+      "name": "EMNIS",
+      "pricestr": "25,68",
+      "price": 25.68,
+      "rate": 9.93,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "ENJSA",
+      "pricestr": "10,46",
+      "price": 10.46,
+      "rate": -2.52,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "ENKAI",
+      "pricestr": "7,90",
+      "price": 7.9,
+      "rate": 6.76,
+      "time": "17:30:56"
+    },
+    {
+      "currency": "TRY",
+      "name": "EPLAS",
+      "pricestr": "30,54",
+      "price": 30.54,
+      "rate": 0,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "ERBOS",
+      "pricestr": "59,60",
+      "price": 59.6,
+      "rate": 3.2,
+      "time": "17:31:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "EREGL",
+      "pricestr": "15,56",
+      "price": 15.56,
+      "rate": 5.78,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "ERSU",
+      "pricestr": "4,71",
+      "price": 4.71,
+      "rate": 3.97,
+      "time": "17:30:59"
+    },
+    {
+      "currency": "TRY",
+      "name": "ESCOM",
+      "pricestr": "6,52",
+      "price": 6.52,
+      "rate": 0.15,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "ESEN",
+      "pricestr": "38,70",
+      "price": 38.7,
+      "rate": 4.88,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "ETILR",
+      "pricestr": "5,70",
+      "price": 5.7,
+      "rate": 2.7,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "ETYAT",
+      "pricestr": "3,90",
+      "price": 3.9,
+      "rate": 3.45,
+      "time": "17:27:10"
+    },
+    {
+      "currency": "TRY",
+      "name": "EUHOL",
+      "pricestr": "3,76",
+      "price": 3.76,
+      "rate": 4.44,
+      "time": "17:30:43"
+    },
+    {
+      "currency": "TRY",
+      "name": "EUKYO",
+      "pricestr": "4,03",
+      "price": 4.03,
+      "rate": 8.04,
+      "time": "17:29:57"
+    },
+    {
+      "currency": "TRY",
+      "name": "EUYO",
+      "pricestr": "4,49",
+      "price": 4.49,
+      "rate": 2.75,
+      "time": "17:30:44"
+    },
+    {
+      "currency": "TRY",
+      "name": "FADE",
+      "pricestr": "14,33",
+      "price": 14.33,
+      "rate": 4.37,
+      "time": "17:31:24"
+    },
+    {
+      "currency": "TRY",
+      "name": "FENER",
+      "pricestr": "25,26",
+      "price": 25.26,
+      "rate": -2.7,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "FLAP",
+      "pricestr": "5,51",
+      "price": 5.51,
+      "rate": -1.25,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "FMIZP",
+      "pricestr": "143,90",
+      "price": 143.9,
+      "rate": 3.15,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "FONET",
+      "pricestr": "13,90",
+      "price": 13.9,
+      "rate": -0.29,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "FORMT",
+      "pricestr": "3,03",
+      "price": 3.03,
+      "rate": 1,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "FRIGO",
+      "pricestr": "29,70",
+      "price": 29.7,
+      "rate": 6.45,
+      "time": "17:31:11"
+    },
+    {
+      "currency": "TRY",
+      "name": "FROTO",
+      "pricestr": "214,40",
+      "price": 214.4,
+      "rate": 4.28,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "GARAN",
+      "pricestr": "7,20",
+      "price": 7.2,
+      "rate": -9.77,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "GARFA",
+      "pricestr": "12,89",
+      "price": 12.89,
+      "rate": -5.29,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "GEDIK",
+      "pricestr": "21,66",
+      "price": 21.66,
+      "rate": 1.21,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "GEDZA",
+      "pricestr": "35,00",
+      "price": 35,
+      "rate": -0.4,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "GENTS",
+      "pricestr": "5,07",
+      "price": 5.07,
+      "rate": -1.17,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "GEREL",
+      "pricestr": "6,06",
+      "price": 6.06,
+      "rate": -0.98,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "GLBMD",
+      "pricestr": "7,26",
+      "price": 7.26,
+      "rate": -0.82,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "GLRYH",
+      "pricestr": "8,99",
+      "price": 8.99,
+      "rate": 0,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "GLYHO",
+      "pricestr": "5,39",
+      "price": 5.39,
+      "rate": -3.75,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "GOLTS",
+      "pricestr": "56,60",
+      "price": 56.6,
+      "rate": -0.61,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "GOODY",
+      "pricestr": "7,57",
+      "price": 7.57,
+      "rate": 0.53,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "GOZDE",
+      "pricestr": "6,93",
+      "price": 6.93,
+      "rate": -5.07,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "GRNYO",
+      "pricestr": "2,89",
+      "price": 2.89,
+      "rate": 1.76,
+      "time": "17:27:10"
+    },
+    {
+      "currency": "TRY",
+      "name": "GSDDE",
+      "pricestr": "6,16",
+      "price": 6.16,
+      "rate": 7.88,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "GSDHO",
+      "pricestr": "2,01",
+      "price": 2.01,
+      "rate": -0.99,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "GSRAY",
+      "pricestr": "3,78",
+      "price": 3.78,
+      "rate": -9.79,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "GUBRF",
+      "pricestr": "70,95",
+      "price": 70.95,
+      "rate": 1.79,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "HALKB",
+      "pricestr": "4,54",
+      "price": 4.54,
+      "rate": -2.99,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "HATEK",
+      "pricestr": "19,52",
+      "price": 19.52,
+      "rate": 0.31,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "HDFGS",
+      "pricestr": "4,04",
+      "price": 4.04,
+      "rate": 0.25,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "HEKTS",
+      "pricestr": "29,18",
+      "price": 29.18,
+      "rate": 8.4,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "HLGYO",
+      "pricestr": "3,07",
+      "price": 3.07,
+      "rate": 1.32,
+      "time": "17:31:27"
+    },
+    {
+      "currency": "TRY",
+      "name": "HUBVC",
+      "pricestr": "16,49",
+      "price": 16.49,
+      "rate": 0.79,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "HURGZ",
+      "pricestr": "1,79",
+      "price": 1.79,
+      "rate": -2.72,
+      "time": "17:30:44"
+    },
+    {
+      "currency": "TRY",
+      "name": "ICBCT",
+      "pricestr": "5,58",
+      "price": 5.58,
+      "rate": 1.64,
+      "time": "17:27:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "IDEAS",
+      "pricestr": "61,65",
+      "price": 61.65,
+      "rate": -9.93,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "IDGYO",
+      "pricestr": "9,65",
+      "price": 9.65,
+      "rate": -2.43,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "IEYHO",
+      "pricestr": "1,61",
+      "price": 1.61,
+      "rate": -4.17,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "IHEVA",
+      "pricestr": "1,41",
+      "price": 1.41,
+      "rate": -2.08,
+      "time": "17:31:08"
+    },
+    {
+      "currency": "TRY",
+      "name": "IHGZT",
+      "pricestr": "2,79",
+      "price": 2.79,
+      "rate": 4.89,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "IHLAS",
+      "pricestr": "0,73",
+      "price": 0.73,
+      "rate": -3.95,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "IHLGM",
+      "pricestr": "0,99",
+      "price": 0.99,
+      "rate": 0,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "IHYAY",
+      "pricestr": "0,86",
+      "price": 0.86,
+      "rate": 4.88,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "INDES",
+      "pricestr": "29,14",
+      "price": 29.14,
+      "rate": 9.63,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "INFO",
+      "pricestr": "6,10",
+      "price": 6.1,
+      "rate": 0.66,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "INTEM",
+      "pricestr": "42,66",
+      "price": 42.66,
+      "rate": 3.04,
+      "time": "17:29:16"
+    },
+    {
+      "currency": "TRY",
+      "name": "INVEO",
+      "pricestr": "128,50",
+      "price": 128.5,
+      "rate": 2.39,
+      "time": "17:31:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "IPEKE",
+      "pricestr": "11,21",
+      "price": 11.21,
+      "rate": -0.18,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISATR",
+      "pricestr": "270.000,00",
+      "price": 270,
+      "rate": -2,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISBIR",
+      "pricestr": "7.480,00",
+      "price": 7.48,
+      "rate": 3.89,
+      "time": "09:55:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISBTR",
+      "pricestr": "39.999,90",
+      "price": 39.999,
+      "rate": 1.01,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISCTR",
+      "pricestr": "4,87",
+      "price": 4.87,
+      "rate": -5.62,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISDMR",
+      "pricestr": "12,01",
+      "price": 12.01,
+      "rate": 7.91,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISFIN",
+      "pricestr": "3,27",
+      "price": 3.27,
+      "rate": -2.97,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISGSY",
+      "pricestr": "17,53",
+      "price": 17.53,
+      "rate": 1.27,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISGYO",
+      "pricestr": "1,87",
+      "price": 1.87,
+      "rate": -0.53,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISIST",
+      "pricestr": "2.285,88",
+      "price": 2.285,
+      "rate": -1.66,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISKPL",
+      "pricestr": "38,94",
+      "price": 38.94,
+      "rate": 2.91,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISKUR",
+      "pricestr": "500.000,00",
+      "price": 500,
+      "rate": 0,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISMEN",
+      "pricestr": "15,05",
+      "price": 15.05,
+      "rate": -3.34,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "ISYAT",
+      "pricestr": "3,28",
+      "price": 3.28,
+      "rate": 4.13,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "ITTFH",
+      "pricestr": "2,44",
+      "price": 2.44,
+      "rate": 2.52,
+      "time": "17:31:07"
+    },
+    {
+      "currency": "TRY",
+      "name": "IZFAS",
+      "pricestr": "7,16",
+      "price": 7.16,
+      "rate": 7.51,
+      "time": "17:31:08"
+    },
+    {
+      "currency": "TRY",
+      "name": "IZMDC",
+      "pricestr": "2,34",
+      "price": 2.34,
+      "rate": 4,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "IZTAR",
+      "pricestr": "23,98",
+      "price": 23.98,
+      "rate": -2.12,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "JANTS",
+      "pricestr": "550,50",
+      "price": 550.5,
+      "rate": 4.56,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "KAPLM",
+      "pricestr": "29,38",
+      "price": 29.38,
+      "rate": 9.87,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KAREL",
+      "pricestr": "29,48",
+      "price": 29.48,
+      "rate": -3.41,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KARSN",
+      "pricestr": "3,77",
+      "price": 3.77,
+      "rate": 2.17,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "KARTN",
+      "pricestr": "66,35",
+      "price": 66.35,
+      "rate": 3.11,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KAT50",
+      "pricestr": "2.412,45",
+      "price": 2.412,
+      "rate": 1.82,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "KATLM",
+      "pricestr": "2.233,01",
+      "price": 2.233,
+      "rate": 1.49,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "KATMP",
+      "pricestr": "4.210,69",
+      "price": 4.21,
+      "rate": 2.4,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "KATMR",
+      "pricestr": "3,73",
+      "price": 3.73,
+      "rate": 1.08,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KCHOL",
+      "pricestr": "20,36",
+      "price": 20.36,
+      "rate": -1.45,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "KENT",
+      "pricestr": "339,90",
+      "price": 339.9,
+      "rate": 9.65,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "KERVN",
+      "pricestr": "0,74",
+      "price": 0.74,
+      "rate": 0,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "KERVT",
+      "pricestr": "5,30",
+      "price": 5.3,
+      "rate": -0.56,
+      "time": "17:31:11"
+    },
+    {
+      "currency": "TRY",
+      "name": "KFEIN",
+      "pricestr": "26,22",
+      "price": 26.22,
+      "rate": -0.08,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "KLGYO",
+      "pricestr": "2,14",
+      "price": 2.14,
+      "rate": 3.38,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "KLMSN",
+      "pricestr": "20,44",
+      "price": 20.44,
+      "rate": -2.2,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "KLNMA",
+      "pricestr": "28,10",
+      "price": 28.1,
+      "rate": 9.17,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "KNFRT",
+      "pricestr": "16,50",
+      "price": 16.5,
+      "rate": 1.29,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "KONTR",
+      "pricestr": "80,65",
+      "price": 80.65,
+      "rate": 3.6,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "KONYA",
+      "pricestr": "1.075,10",
+      "price": 1.075,
+      "rate": 1.15,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "KORDS",
+      "pricestr": "22,96",
+      "price": 22.96,
+      "rate": 3.52,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "KOZAA",
+      "pricestr": "13,25",
+      "price": 13.25,
+      "rate": 1.07,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KOZAL",
+      "pricestr": "115,70",
+      "price": 115.7,
+      "rate": 5.37,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRDMA",
+      "pricestr": "5,18",
+      "price": 5.18,
+      "rate": -4.07,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRDMB",
+      "pricestr": "5,16",
+      "price": 5.16,
+      "rate": -3.37,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRDMD",
+      "pricestr": "6,32",
+      "price": 6.32,
+      "rate": -4.24,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRGYO",
+      "pricestr": "6,69",
+      "price": 6.69,
+      "rate": 3.4,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRONT",
+      "pricestr": "49,00",
+      "price": 49,
+      "rate": 2.9,
+      "time": "17:30:24"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRSTL",
+      "pricestr": "2,63",
+      "price": 2.63,
+      "rate": -0.75,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRTEK",
+      "pricestr": "13,99",
+      "price": 13.99,
+      "rate": 4.48,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "KRVGD",
+      "pricestr": "16,09",
+      "price": 16.09,
+      "rate": 3.41,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "KSTUR",
+      "pricestr": "278,70",
+      "price": 278.7,
+      "rate": 9.98,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "KUTPO",
+      "pricestr": "51,60",
+      "price": 51.6,
+      "rate": 9.93,
+      "time": "17:29:52"
+    },
+    {
+      "currency": "TRY",
+      "name": "KUYAS",
+      "pricestr": "2,00",
+      "price": 2,
+      "rate": -0.99,
+      "time": "17:30:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "LIDFA",
+      "pricestr": "3,37",
+      "price": 3.37,
+      "rate": -1.46,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "LINK",
+      "pricestr": "40,56",
+      "price": 40.56,
+      "rate": 6.51,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "LKMNH",
+      "pricestr": "15,68",
+      "price": 15.68,
+      "rate": -4.68,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "LOGO",
+      "pricestr": "157,20",
+      "price": 157.2,
+      "rate": 2.48,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "LUKSK",
+      "pricestr": "76,60",
+      "price": 76.6,
+      "rate": 4.08,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "MAALT",
+      "pricestr": "219,70",
+      "price": 219.7,
+      "rate": -0.77,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "MAKTK",
+      "pricestr": "4,00",
+      "price": 4,
+      "rate": 1.01,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "MARKA",
+      "pricestr": "5,14",
+      "price": 5.14,
+      "rate": 9.59,
+      "time": "17:31:27"
+    },
+    {
+      "currency": "TRY",
+      "name": "MARTI",
+      "pricestr": "2,34",
+      "price": 2.34,
+      "rate": 4.46,
+      "time": "17:31:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "MAVI",
+      "pricestr": "48,46",
+      "price": 48.46,
+      "rate": -6.72,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "MEGAP",
+      "pricestr": "7,37",
+      "price": 7.37,
+      "rate": 1.66,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "MEGAP",
+      "pricestr": "7,37",
+      "price": 7.37,
+      "rate": 1.66,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "MEPET",
+      "pricestr": "2,46",
+      "price": 2.46,
+      "rate": -2.38,
+      "time": "17:31:24"
+    },
+    {
+      "currency": "TRY",
+      "name": "MERIT",
+      "pricestr": "230,90",
+      "price": 230.9,
+      "rate": -9.98,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "MERKO",
+      "pricestr": "7,00",
+      "price": 7,
+      "rate": 5.26,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "METRO",
+      "pricestr": "1,98",
+      "price": 1.98,
+      "rate": 4.21,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "METUR",
+      "pricestr": "30,26",
+      "price": 30.26,
+      "rate": 3.77,
+      "time": "17:30:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "MGROS",
+      "pricestr": "35,40",
+      "price": 35.4,
+      "rate": 1.2,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "MIPAZ",
+      "pricestr": "4,51",
+      "price": 4.51,
+      "rate": -1.74,
+      "time": "17:31:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "MMCAS",
+      "pricestr": "5,20",
+      "price": 5.2,
+      "rate": 0.39,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "MNDRS",
+      "pricestr": "2,97",
+      "price": 2.97,
+      "rate": -2.94,
+      "time": "17:31:25"
+    },
+    {
+      "currency": "TRY",
+      "name": "MPARK",
+      "pricestr": "20,42",
+      "price": 20.42,
+      "rate": -5.46,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "MRGYO",
+      "pricestr": "2,45",
+      "price": 2.45,
+      "rate": 0.41,
+      "time": "17:30:02"
+    },
+    {
+      "currency": "TRY",
+      "name": "MRSHL",
+      "pricestr": "282,00",
+      "price": 282,
+      "rate": 5.9,
+      "time": "17:31:03"
+    },
+    {
+      "currency": "TRY",
+      "name": "MSGYO",
+      "pricestr": "4,78",
+      "price": 4.78,
+      "rate": 7.17,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "MTRYO",
+      "pricestr": "1,99",
+      "price": 1.99,
+      "rate": 0.51,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "MZHLD",
+      "pricestr": "38,00",
+      "price": 38,
+      "rate": 5.44,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "NATEN",
+      "pricestr": "40,74",
+      "price": 40.74,
+      "rate": 2.88,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "NETAS",
+      "pricestr": "27,78",
+      "price": 27.78,
+      "rate": -0.22,
+      "time": "17:31:27"
+    },
+    {
+      "currency": "TRY",
+      "name": "NIBAS",
+      "pricestr": "19,04",
+      "price": 19.04,
+      "rate": 0.79,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "NTHOL",
+      "pricestr": "5,02",
+      "price": 5.02,
+      "rate": -3.83,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "NUGYO",
+      "pricestr": "16,57",
+      "price": 16.57,
+      "rate": 5.07,
+      "time": "17:30:18"
+    },
+    {
+      "currency": "TRY",
+      "name": "NUHCM",
+      "pricestr": "58,05",
+      "price": 58.05,
+      "rate": 2.74,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "ODAS",
+      "pricestr": "3,32",
+      "price": 3.32,
+      "rate": -2.06,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "OLMIP",
+      "pricestr": "7,62",
+      "price": 7.62,
+      "rate": 8.7,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "ORGE",
+      "pricestr": "10,30",
+      "price": 10.3,
+      "rate": 6.63,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "ORMA",
+      "pricestr": "18,51",
+      "price": 18.51,
+      "rate": 9.98,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "OSMEN",
+      "pricestr": "32,00",
+      "price": 32,
+      "rate": 3.29,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "OSTIM",
+      "pricestr": "2,55",
+      "price": 2.55,
+      "rate": 2,
+      "time": "17:31:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "OTKAR",
+      "pricestr": "377,50",
+      "price": 377.5,
+      "rate": 6.7,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "OYAKC",
+      "pricestr": "6,90",
+      "price": 6.9,
+      "rate": 0.88,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "OYAYO",
+      "pricestr": "8,23",
+      "price": 8.23,
+      "rate": 0.49,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "OYLUM",
+      "pricestr": "4,00",
+      "price": 4,
+      "rate": 1.27,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "OZBAL",
+      "pricestr": "7,08",
+      "price": 7.08,
+      "rate": 3.51,
+      "time": "17:30:55"
+    },
+    {
+      "currency": "TRY",
+      "name": "OZGYO",
+      "pricestr": "1,88",
+      "price": 1.88,
+      "rate": -0.53,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "OZKGY",
+      "pricestr": "4,84",
+      "price": 4.84,
+      "rate": 1.47,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "OZKGY",
+      "pricestr": "4,84",
+      "price": 4.84,
+      "rate": 1.47,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "OZRDN",
+      "pricestr": "8,10",
+      "price": 8.1,
+      "rate": -10,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "PAGYO",
+      "pricestr": "6,06",
+      "price": 6.06,
+      "rate": 0.83,
+      "time": "17:26:56"
+    },
+    {
+      "currency": "TRY",
+      "name": "PAMEL",
+      "pricestr": "28,38",
+      "price": 28.38,
+      "rate": 5.11,
+      "time": "17:29:02"
+    },
+    {
+      "currency": "TRY",
+      "name": "PAPIL",
+      "pricestr": "19,02",
+      "price": 19.02,
+      "rate": -1.55,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "PARSN",
+      "pricestr": "32,40",
+      "price": 32.4,
+      "rate": 2.21,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "PEGYO",
+      "pricestr": "1,81",
+      "price": 1.81,
+      "rate": -1.09,
+      "time": "17:31:10"
+    },
+    {
+      "currency": "TRY",
+      "name": "PEKGY",
+      "pricestr": "1,95",
+      "price": 1.95,
+      "rate": 0,
+      "time": "17:30:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "PENGD",
+      "pricestr": "3,91",
+      "price": 3.91,
+      "rate": 4.55,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "PETKM",
+      "pricestr": "5,37",
+      "price": 5.37,
+      "rate": -1.47,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "PETUN",
+      "pricestr": "20,16",
+      "price": 20.16,
+      "rate": -1.18,
+      "time": "17:31:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "PGSUS",
+      "pricestr": "71,85",
+      "price": 71.85,
+      "rate": -2.04,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "PINSU",
+      "pricestr": "7,11",
+      "price": 7.11,
+      "rate": 2.75,
+      "time": "17:26:49"
+    },
+    {
+      "currency": "TRY",
+      "name": "PKART",
+      "pricestr": "14,81",
+      "price": 14.81,
+      "rate": -4.57,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "PKENT",
+      "pricestr": "2.350,00",
+      "price": 2.35,
+      "rate": -0.06,
+      "time": "17:30:50"
+    },
+    {
+      "currency": "TRY",
+      "name": "PNSUT",
+      "pricestr": "20,22",
+      "price": 20.22,
+      "rate": -1.08,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "POLHO",
+      "pricestr": "3,18",
+      "price": 3.18,
+      "rate": -0.31,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "POLTK",
+      "pricestr": "306,60",
+      "price": 306.6,
+      "rate": 5.14,
+      "time": "17:31:14"
+    },
+    {
+      "currency": "TRY",
+      "name": "PRKAB",
+      "pricestr": "11,55",
+      "price": 11.55,
+      "rate": 1.14,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "PRKME",
+      "pricestr": "5,05",
+      "price": 5.05,
+      "rate": -1.75,
+      "time": "17:30:59"
+    },
+    {
+      "currency": "TRY",
+      "name": "PRZMA",
+      "pricestr": "4,90",
+      "price": 4.9,
+      "rate": 9.87,
+      "time": "17:25:18"
+    },
+    {
+      "currency": "TRY",
+      "name": "PSDTC",
+      "pricestr": "24,88",
+      "price": 24.88,
+      "rate": 2.73,
+      "time": "17:30:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "PSDTC",
+      "pricestr": "24,88",
+      "price": 24.88,
+      "rate": 2.73,
+      "time": "17:30:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "PSDTC",
+      "pricestr": "24,88",
+      "price": 24.88,
+      "rate": 2.73,
+      "time": "17:30:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "PSDTC",
+      "pricestr": "24,88",
+      "price": 24.88,
+      "rate": 2.73,
+      "time": "17:30:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "QNBFB",
+      "pricestr": "56,65",
+      "price": 56.65,
+      "rate": -0.61,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "QNBFL",
+      "pricestr": "116,00",
+      "price": 116,
+      "rate": 0.87,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "RALYH",
+      "pricestr": "3,72",
+      "price": 3.72,
+      "rate": 3.33,
+      "time": "17:27:48"
+    },
+    {
+      "currency": "TRY",
+      "name": "RAYSG",
+      "pricestr": "12,32",
+      "price": 12.32,
+      "rate": -1.52,
+      "time": "17:30:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "RHEAG",
+      "pricestr": "3,04",
+      "price": 3.04,
+      "rate": -0.33,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "RODRG",
+      "pricestr": "19,88",
+      "price": 19.88,
+      "rate": 9.89,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ROYAL",
+      "pricestr": "3,48",
+      "price": 3.48,
+      "rate": 5.78,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "RTALB",
+      "pricestr": "18,38",
+      "price": 18.38,
+      "rate": -1.34,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "RYGYO",
+      "pricestr": "4,75",
+      "price": 4.75,
+      "rate": -1.45,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "RYSAS",
+      "pricestr": "6,59",
+      "price": 6.59,
+      "rate": -2.37,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SAFKR",
+      "pricestr": "10,59",
+      "price": 10.59,
+      "rate": 1.05,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "SAHOL",
+      "pricestr": "8,45",
+      "price": 8.45,
+      "rate": -6.11,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "SAMAT",
+      "pricestr": "5,42",
+      "price": 5.42,
+      "rate": 0.37,
+      "time": "17:27:07"
+    },
+    {
+      "currency": "TRY",
+      "name": "SANEL",
+      "pricestr": "5,55",
+      "price": 5.55,
+      "rate": 3.16,
+      "time": "17:31:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "SANFM",
+      "pricestr": "17,17",
+      "price": 17.17,
+      "rate": 1.78,
+      "time": "17:23:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "SANKO",
+      "pricestr": "12,06",
+      "price": 12.06,
+      "rate": 0.75,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "SARKY",
+      "pricestr": "12,22",
+      "price": 12.22,
+      "rate": 3.21,
+      "time": "17:31:27"
+    },
+    {
+      "currency": "TRY",
+      "name": "SASA",
+      "pricestr": "43,64",
+      "price": 43.64,
+      "rate": 9.98,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "SAYAS",
+      "pricestr": "18,88",
+      "price": 18.88,
+      "rate": 6.07,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "SEKFK",
+      "pricestr": "9,90",
+      "price": 9.9,
+      "rate": -2.08,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SEKUR",
+      "pricestr": "30,10",
+      "price": 30.1,
+      "rate": 6.81,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "SELEC",
+      "pricestr": "10,12",
+      "price": 10.12,
+      "rate": 2.22,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "SELGD",
+      "pricestr": "4,40",
+      "price": 4.4,
+      "rate": 7.84,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SERVE",
+      "pricestr": "16,47",
+      "price": 16.47,
+      "rate": 0,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SEYKM",
+      "pricestr": "30,54",
+      "price": 30.54,
+      "rate": -1.93,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "SILVR",
+      "pricestr": "5,94",
+      "price": 5.94,
+      "rate": 0.85,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "SISE",
+      "pricestr": "7,03",
+      "price": 7.03,
+      "rate": 1.44,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "SKBNK",
+      "pricestr": "1,11",
+      "price": 1.11,
+      "rate": -5.13,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "SKTAS",
+      "pricestr": "4,34",
+      "price": 4.34,
+      "rate": -9.39,
+      "time": "17:31:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "SMART",
+      "pricestr": "7,23",
+      "price": 7.23,
+      "rate": 2.84,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "SNGYO",
+      "pricestr": "4,05",
+      "price": 4.05,
+      "rate": -5.37,
+      "time": "17:31:15"
+    },
+    {
+      "currency": "TRY",
+      "name": "SNKRN",
+      "pricestr": "35,10",
+      "price": 35.1,
+      "rate": 0,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SNPAM",
+      "pricestr": "22,48",
+      "price": 22.48,
+      "rate": 2.55,
+      "time": "17:28:25"
+    },
+    {
+      "currency": "TRY",
+      "name": "SODSN",
+      "pricestr": "42,80",
+      "price": 42.8,
+      "rate": 9.3,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SOKM",
+      "pricestr": "12,15",
+      "price": 12.15,
+      "rate": -1.46,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "SONME",
+      "pricestr": "71,30",
+      "price": 71.3,
+      "rate": 9.86,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "SRVGY",
+      "pricestr": "94,15",
+      "price": 94.15,
+      "rate": -3.14,
+      "time": "17:31:25"
+    },
+    {
+      "currency": "TRY",
+      "name": "SUMAS",
+      "pricestr": "62,00",
+      "price": 62,
+      "rate": -0.16,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "TACTR",
+      "pricestr": "23,00",
+      "price": 23,
+      "rate": -6.12,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "TATGD",
+      "pricestr": "8,87",
+      "price": 8.87,
+      "rate": -3.27,
+      "time": "17:31:33"
+    },
+    {
+      "currency": "TRY",
+      "name": "TAVHL",
+      "pricestr": "21,18",
+      "price": 21.18,
+      "rate": -1.94,
+      "time": "17:31:16"
+    },
+    {
+      "currency": "TRY",
+      "name": "TBORG",
+      "pricestr": "18,30",
+      "price": 18.3,
+      "rate": 0.22,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "TCELL",
+      "pricestr": "14,78",
+      "price": 14.78,
+      "rate": 3.57,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "TDGYO",
+      "pricestr": "6,75",
+      "price": 6.75,
+      "rate": -0.88,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "TEKTU",
+      "pricestr": "1,67",
+      "price": 1.67,
+      "rate": -1.76,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "TGSAS",
+      "pricestr": "15,79",
+      "price": 15.79,
+      "rate": -3.72,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "THYAO",
+      "pricestr": "12,26",
+      "price": 12.26,
+      "rate": -1.29,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "TIRE",
+      "pricestr": "6,52",
+      "price": 6.52,
+      "rate": 0,
+      "time": "17:31:19"
+    },
+    {
+      "currency": "TRY",
+      "name": "TKFEN",
+      "pricestr": "14,40",
+      "price": 14.4,
+      "rate": -1.23,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "TKNSA",
+      "pricestr": "13,37",
+      "price": 13.37,
+      "rate": 5.11,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "TKURU",
+      "pricestr": "239,20",
+      "price": 239.2,
+      "rate": 5.24,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "TLMAN",
+      "pricestr": "29,08",
+      "price": 29.08,
+      "rate": 0.97,
+      "time": "17:30:49"
+    },
+    {
+      "currency": "TRY",
+      "name": "TMPOL",
+      "pricestr": "18,60",
+      "price": 18.6,
+      "rate": 0.7,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "TMSN",
+      "pricestr": "21,76",
+      "price": 21.76,
+      "rate": 4.72,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "TOASO",
+      "pricestr": "32,26",
+      "price": 32.26,
+      "rate": -4.61,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "TRCAS",
+      "pricestr": "4,37",
+      "price": 4.37,
+      "rate": -2.46,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "TRGYO",
+      "pricestr": "3,27",
+      "price": 3.27,
+      "rate": -4.39,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "TRILC",
+      "pricestr": "34,44",
+      "price": 34.44,
+      "rate": 9.96,
+      "time": "17:31:26"
+    },
+    {
+      "currency": "TRY",
+      "name": "TSGYO",
+      "pricestr": "5,88",
+      "price": 5.88,
+      "rate": 5.95,
+      "time": "17:31:03"
+    },
+    {
+      "currency": "TRY",
+      "name": "TSKB",
+      "pricestr": "1,37",
+      "price": 1.37,
+      "rate": -6.8,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "TSPOR",
+      "pricestr": "2,02",
+      "price": 2.02,
+      "rate": 0.5,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "TTKOM",
+      "pricestr": "6,73",
+      "price": 6.73,
+      "rate": -2.6,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "TTRAK",
+      "pricestr": "216,90",
+      "price": 216.9,
+      "rate": -0.18,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "TUCLK",
+      "pricestr": "6,75",
+      "price": 6.75,
+      "rate": 0.45,
+      "time": "17:31:22"
+    },
+    {
+      "currency": "TRY",
+      "name": "TUKAS",
+      "pricestr": "7,59",
+      "price": 7.59,
+      "rate": 1.88,
+      "time": "17:31:16"
+    },
+    {
+      "currency": "TRY",
+      "name": "TUPRS",
+      "pricestr": "88,40",
+      "price": 88.4,
+      "rate": -2.37,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "TURGG",
+      "pricestr": "122,10",
+      "price": 122.1,
+      "rate": -1.21,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "TURSG",
+      "pricestr": "5,83",
+      "price": 5.83,
+      "rate": -1.35,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "UFUK",
+      "pricestr": "20,46",
+      "price": 20.46,
+      "rate": 0.2,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ULAS",
+      "pricestr": "5,40",
+      "price": 5.4,
+      "rate": 3.45,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "ULKER",
+      "pricestr": "22,30",
+      "price": 22.3,
+      "rate": 0.54,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "ULUSE",
+      "pricestr": "50,95",
+      "price": 50.95,
+      "rate": -1.55,
+      "time": "17:30:03"
+    },
+    {
+      "currency": "TRY",
+      "name": "ULUUN",
+      "pricestr": "15,27",
+      "price": 15.27,
+      "rate": -0.13,
+      "time": "17:31:29"
+    },
+    {
+      "currency": "TRY",
+      "name": "UMPAS",
+      "pricestr": "1,82",
+      "price": 1.82,
+      "rate": 9.64,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "USAK",
+      "pricestr": "2,15",
+      "price": 2.15,
+      "rate": -2.27,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "UTPYA",
+      "pricestr": "39,48",
+      "price": 39.48,
+      "rate": 6.99,
+      "time": "17:31:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "UZERB",
+      "pricestr": "56,00",
+      "price": 56,
+      "rate": 9.7,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "VAKBN",
+      "pricestr": "3,46",
+      "price": 3.46,
+      "rate": -5.72,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "VAKFN",
+      "pricestr": "28,20",
+      "price": 28.2,
+      "rate": 7.72,
+      "time": "17:31:17"
+    },
+    {
+      "currency": "TRY",
+      "name": "VAKKO",
+      "pricestr": "15,29",
+      "price": 15.29,
+      "rate": 3.24,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "VANGD",
+      "pricestr": "6,23",
+      "price": 6.23,
+      "rate": 0.65,
+      "time": "17:31:02"
+    },
+    {
+      "currency": "TRY",
+      "name": "VERTU",
+      "pricestr": "25,52",
+      "price": 25.52,
+      "rate": -2.82,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "VERUS",
+      "pricestr": "53,85",
+      "price": 53.85,
+      "rate": -7.16,
+      "time": "17:31:35"
+    },
+    {
+      "currency": "TRY",
+      "name": "VESBE",
+      "pricestr": "51,35",
+      "price": 51.35,
+      "rate": 3.15,
+      "time": "17:31:36"
+    },
+    {
+      "currency": "TRY",
+      "name": "VESTL",
+      "pricestr": "31,34",
+      "price": 31.34,
+      "rate": 7.92,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "VKFYO",
+      "pricestr": "7,97",
+      "price": 7.97,
+      "rate": -1.6,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "VKGYO",
+      "pricestr": "2,94",
+      "price": 2.94,
+      "rate": -2.33,
+      "time": "17:31:34"
+    },
+    {
+      "currency": "TRY",
+      "name": "VKING",
+      "pricestr": "7,07",
+      "price": 7.07,
+      "rate": 0.71,
+      "time": "17:26:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "X030S",
+      "pricestr": "1.437,77",
+      "price": 1.437,
+      "rate": -0.69,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "X100S",
+      "pricestr": "1.381,97",
+      "price": 1.381,
+      "rate": 0.18,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XBANA",
+      "pricestr": "5.884,23",
+      "price": 5.884,
+      "rate": 0.48,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XBANK",
+      "pricestr": "1.111,42",
+      "price": 1.111,
+      "rate": -7.87,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "XBLSM",
+      "pricestr": "918,13",
+      "price": 918.13,
+      "rate": 2.06,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XELKT",
+      "pricestr": "87,29",
+      "price": 87.29,
+      "rate": -0.15,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XFINK",
+      "pricestr": "1.492,80",
+      "price": 1.492,
+      "rate": 1.69,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XGIDA",
+      "pricestr": "1.963,56",
+      "price": 1.963,
+      "rate": 2.05,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XGMYO",
+      "pricestr": "619,61",
+      "price": 619.61,
+      "rate": -0.07,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XHARZ",
+      "pricestr": "9.275,86",
+      "price": 9.275,
+      "rate": 3.22,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XHOLD",
+      "pricestr": "1.234,21",
+      "price": 1.234,
+      "rate": -0.58,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XILTM",
+      "pricestr": "369,28",
+      "price": 369.28,
+      "rate": 2.71,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XINSA",
+      "pricestr": "1.585,10",
+      "price": 1.585,
+      "rate": 5.59,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XKAGT",
+      "pricestr": "1.759,89",
+      "price": 1.759,
+      "rate": 1.36,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XKMYA",
+      "pricestr": "1.992,52",
+      "price": 1.992,
+      "rate": 1.84,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XKOBI",
+      "pricestr": "4.532,15",
+      "price": 4.532,
+      "rate": 1.67,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XKURY",
+      "pricestr": "1.139,70",
+      "price": 1.139,
+      "rate": 0.08,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XMADN",
+      "pricestr": "1.517,62",
+      "price": 1.517,
+      "rate": 3.29,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XMANA",
+      "pricestr": "4.451,22",
+      "price": 4.451,
+      "rate": 3.56,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XMESY",
+      "pricestr": "4.036,55",
+      "price": 4.036,
+      "rate": 3.13,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSADA",
+      "pricestr": "13.190,18",
+      "price": 13.19,
+      "rate": 9.46,
+      "time": "17:27:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSANK",
+      "pricestr": "2.177,81",
+      "price": 2.177,
+      "rate": 0.68,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSANT",
+      "pricestr": "2.725,59",
+      "price": 2.725,
+      "rate": 0.72,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSBAL",
+      "pricestr": "2.144,82",
+      "price": 2.144,
+      "rate": 0.25,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSBUR",
+      "pricestr": "3.307,31",
+      "price": 3.307,
+      "rate": -0.62,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSDNZ",
+      "pricestr": "2.775,97",
+      "price": 2.775,
+      "rate": -1.35,
+      "time": "17:26:50"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSGRT",
+      "pricestr": "5.837,59",
+      "price": 5.837,
+      "rate": -0.45,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSIST",
+      "pricestr": "1.501,36",
+      "price": 1.501,
+      "rate": 0.76,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSIZM",
+      "pricestr": "3.572,89",
+      "price": 3.572,
+      "rate": 2.42,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSKAY",
+      "pricestr": "9.999,02",
+      "price": 9.999,
+      "rate": -0.58,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSKOC",
+      "pricestr": "3.987,72",
+      "price": 3.987,
+      "rate": 2.19,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSKON",
+      "pricestr": "3.701,29",
+      "price": 3.701,
+      "rate": 1.64,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSPOR",
+      "pricestr": "902,77",
+      "price": 902.77,
+      "rate": -3.63,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XSTKR",
+      "pricestr": "11.068,85",
+      "price": 11.068,
+      "rate": 5.45,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTAST",
+      "pricestr": "1.831,39",
+      "price": 1.831,
+      "rate": 1.78,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTCRT",
+      "pricestr": "3.296,63",
+      "price": 3.296,
+      "rate": 2.48,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTEKS",
+      "pricestr": "1.041,48",
+      "price": 1.041,
+      "rate": 0.13,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTM25",
+      "pricestr": "2.075,07",
+      "price": 2.075,
+      "rate": 2.87,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTMTU",
+      "pricestr": "1.576,78",
+      "price": 1.576,
+      "rate": 2.41,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTRZM",
+      "pricestr": "368,08",
+      "price": 368.08,
+      "rate": 1.35,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XTUMY",
+      "pricestr": "5.184,15",
+      "price": 5.184,
+      "rate": 1.34,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XU030",
+      "pricestr": "1.422,38",
+      "price": 1.422,
+      "rate": -0.72,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "XU050",
+      "pricestr": "1.191,85",
+      "price": 1.191,
+      "rate": -0.24,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XU100",
+      "pricestr": "1.380,88",
+      "price": 1.38,
+      "rate": 0.12,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "XUHIZ",
+      "pricestr": "1.128,26",
+      "price": 1.128,
+      "rate": 1.66,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XULAS",
+      "pricestr": "1.701,62",
+      "price": 1.701,
+      "rate": -0.54,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XUMAL",
+      "pricestr": "1.341,05",
+      "price": 1.341,
+      "rate": -3.2,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XUSIN",
+      "pricestr": "2.528,65",
+      "price": 2.528,
+      "rate": 2.55,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "XUSRD",
+      "pricestr": "1.561,30",
+      "price": 1.561,
+      "rate": -0.54,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XUTEK",
+      "pricestr": "1.876,85",
+      "price": 1.876,
+      "rate": 1.67,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XUTUM",
+      "pricestr": "1.607,32",
+      "price": 1.607,
+      "rate": 0.41,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XYLDZ",
+      "pricestr": "1.444,21",
+      "price": 1.444,
+      "rate": 0.34,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XYORT",
+      "pricestr": "1.137,00",
+      "price": 1.137,
+      "rate": 2.61,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "XYUZO",
+      "pricestr": "2.852,26",
+      "price": 2.852,
+      "rate": 1.83,
+      "time": "17:31:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "YAPRK",
+      "pricestr": "105,70",
+      "price": 105.7,
+      "rate": 7.75,
+      "time": "17:31:32"
+    },
+    {
+      "currency": "TRY",
+      "name": "YATAS",
+      "pricestr": "14,81",
+      "price": 14.81,
+      "rate": -5.43,
+      "time": "17:31:23"
+    },
+    {
+      "currency": "TRY",
+      "name": "YAYLA",
+      "pricestr": "3,74",
+      "price": 3.74,
+      "rate": -0.53,
+      "time": "17:31:37"
+    },
+    {
+      "currency": "TRY",
+      "name": "YBTAS",
+      "pricestr": "15.000,00",
+      "price": 15,
+      "rate": 1.32,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "YESIL",
+      "pricestr": "104,20",
+      "price": 104.2,
+      "rate": 9.92,
+      "time": "17:30:59"
+    },
+    {
+      "currency": "TRY",
+      "name": "YGGYO",
+      "pricestr": "14,80",
+      "price": 14.8,
+      "rate": 2.71,
+      "time": "17:29:21"
+    },
+    {
+      "currency": "TRY",
+      "name": "YGYO",
+      "pricestr": "1,28",
+      "price": 1.28,
+      "rate": 1.59,
+      "time": "17:31:30"
+    },
+    {
+      "currency": "TRY",
+      "name": "YKBNK",
+      "pricestr": "2,22",
+      "price": 2.22,
+      "rate": -7.11,
+      "time": "17:31:38"
+    },
+    {
+      "currency": "TRY",
+      "name": "YKGYO",
+      "pricestr": "6,48",
+      "price": 6.48,
+      "rate": 3.02,
+      "time": "17:30:18"
+    },
+    {
+      "currency": "TRY",
+      "name": "YKSLN",
+      "pricestr": "4,69",
+      "price": 4.69,
+      "rate": 2.85,
+      "time": "17:30:20"
+    },
+    {
+      "currency": "TRY",
+      "name": "YONGA",
+      "pricestr": "27,44",
+      "price": 27.44,
+      "rate": 4.02,
+      "time": "09:55:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "YUNSA",
+      "pricestr": "15,09",
+      "price": 15.09,
+      "rate": -2.83,
+      "time": "17:31:31"
+    },
+    {
+      "currency": "TRY",
+      "name": "YYAPI",
+      "pricestr": "1,92",
+      "price": 1.92,
+      "rate": 3.23,
+      "time": "17:31:28"
+    },
+    {
+      "currency": "TRY",
+      "name": "ZOREN",
+      "pricestr": "2,18",
+      "price": 2.18,
+      "rate": 0,
+      "time": "17:31:21"
+    }
+  ],
+  "date": "2021-03-23T15"
+}
